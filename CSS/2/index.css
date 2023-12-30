@@ -1,0 +1,42 @@
+*{
+    padding: 0 0;
+    margin: 0 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+}
+.container .box{
+    width: 200px;
+    height: 100px;
+    background: red;
+    margin: 10px;
+}
+.container .box img{
+    width: 100px;
+    height: 100px;
+}
+
+.container .box:nth-child(1){
+    text-align: center;
+}
+.container .box:nth-child(2){
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container .box:nth-child(3){
+    text-align: center;
+}
+
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+.img img{
+    width: 200px;
+    height: 150px;
+}
+

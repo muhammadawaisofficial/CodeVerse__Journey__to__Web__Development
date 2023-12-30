@@ -1,0 +1,18 @@
+.markhor{
+    color: red;
+}
+.code{
+    color: blue;
+}
+.para{
+    color: blueviolet;
+
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: serif;
+    font-style:italic;
+
+    text-align: justify;
+    text-indent: 150px;
+
+}

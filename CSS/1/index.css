@@ -1,0 +1,19 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+    box-sizing: border-box;
+}
+
+.container .box1{
+    background-color: red;
+    margin:0 20px;
+    padding: 0 30px;
+}
+.container .box2{
+    background-color: green;
+    margin: 20px 0;
+}
+.container .box3{
+    background-color: blue;
+    margin-right: 10px;
+}
